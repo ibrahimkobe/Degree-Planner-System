@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="Degree_Planner_Conceptual_Design.png" alt="Class Diagram" width="900"/>
-
 # Degree Planner System
 ### Data Structures & Algorithms - Java Implementation
 
@@ -10,7 +8,7 @@
 ![DSA](https://img.shields.io/badge/Data%20Structures-LinkedList%20%7C%20Stack%20%7C%20Queue%20%7C%20BST%20%7C%20Graph-6A0DAD?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge)
 
-**Ibrahim Abu Kobe - 24120014 - Section 1 - HTU**
+**Ibrahim Abu Kobe**
 
 </div>
 
@@ -33,7 +31,7 @@
 
 ## Project Overview
 
-This is a **console-based Degree Planner System** built for HTU's Data Structures and Algorithms course (40201201). The system simulates a real-world tool that allows a student to manage their full degree plan, track completed courses, plan upcoming semesters, and visualize course prerequisites.
+This is a **console-based Degree Planner System** built for HTU's Data Structures and Algorithms course. The system simulates a real-world tool that allows a student to manage their full degree plan, track completed courses, plan upcoming semesters, and visualize course prerequisites.
 
 Every single data structure is built from scratch in Java with no use of the Java Collections Library as required by the assignment.
 
@@ -51,13 +49,12 @@ Every single data structure is built from scratch in Java with no use of the Jav
 
 | Detail | Info |
 |---|---|
-| **Course** | Data Structures and Algorithms - 40201201 |
+| **Course** | Data Structures and Algorithms |
 | **Assignment** | Implementing DSA to solve real-world problems |
 | **Language** | Java (OOP) |
 | **Package** | dsa_AB |
-| **Student** | Ibrahim Abu Kobe - 24120014 |
+| **Student** | Ibrahim Abu Kobe |
 | **Institution** | Al-Hussein Technical University (HTU) |
-| **Submission Date** | 07 June 2026 |
 | **Features Implemented** | Feature 1 (Linked List), Feature 2 (Stack), Feature 3 (Queue), Feature 4 (BST), Feature 5 (Graph) |
 
 ---
@@ -66,7 +63,7 @@ Every single data structure is built from scratch in Java with no use of the Jav
 
 <div align="center">
 
-<img src="1781906322674_image.png" alt="Degree Planner Menu" width="500"/>
+<img src="Screenshot 2026-06-20 005839.png" alt="Degree Planner Menu" width="500"/>
 
 </div>
 
@@ -76,7 +73,7 @@ Every single data structure is built from scratch in Java with no use of the Jav
 
 <div align="center">
 
-<img src="Degree_Planner_Conceptual_Design.png" alt="Degree Planner Class Diagram" width="950"/>
+<img src="Degree_Planner_Conceptual_Design.png" alt="Degree Planner Class Diagram" width="750"/>
 
 *Full UML class diagram showing all system classes, attributes, methods, and relationships.*
 
@@ -269,7 +266,7 @@ java dsa_AB.Main
 
 <div align="center">
 
-**Ibrahim Abu Kobe** - HTU - Cybersecurity and Data Science
+**Ibrahim Abu Kobe**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ibrahimkobe-181717?style=flat-square&logo=github)](https://github.com/ibrahimkobe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com)
